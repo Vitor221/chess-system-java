@@ -4,8 +4,6 @@ import Chess.ChessException;
 import Chess.ChessMatch;
 import Chess.ChessPiece;
 import Chess.ChessPosition;
-import boardgame.Board;
-import boardgame.Position;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

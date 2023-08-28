@@ -93,7 +93,7 @@ public class ChessMatch {
             }
         }
 
-        if(testCheck(opponent(currentPlayer))) {
+        if(testCheckMate(opponent(currentPlayer))) {
             checkMate = true;
         } else {
             nextTurn();
